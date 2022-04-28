@@ -1,9 +1,16 @@
+body {
+	background: rgb(19, 26, 90);
+}
+
+
+
 h1 {
-	color: blue; 
+	font-family: 'Roboto', sans-serif;
+	color: rgb(255, 255, 255); 
 }
 button { 
 	padding: 10px;
-	background-color: darkred;
+	background-color: rgb(121, 119, 119);
 	color: white;
 	cursor: pointer;
 }
